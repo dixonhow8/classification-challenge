@@ -2,7 +2,7 @@
 
 ## Background
 
-In this project, you will be working on improving an email filtering system for an Internet Service Provider (ISP). The dataset provided contains information about emails classified as either spam or not spam. Your task is to develop and evaluate two supervised machine learning (ML) models to accurately detect spam emails, which will help filter them out of customers' inboxes.
+In this project, I was working on improving an email filtering system for an Internet Service Provider (ISP). The dataset provided contains information about emails classified as either spam or not spam. My task was to develop and evaluate two supervised machine learning (ML) models to accurately detect spam emails, which will help filter them out of customers' inboxes.
 
 The models you will develop are:
 1. **Logistic Regression Model**
