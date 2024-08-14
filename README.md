@@ -1,4 +1,4 @@
-# Module 13: Spam Email Classification Challenge
+# Module 13: Spam Email Detector Classification Challenge
 
 ## Background
 
