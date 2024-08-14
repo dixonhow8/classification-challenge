@@ -4,11 +4,11 @@
 
 In this project, I was working on improving an email filtering system for an Internet Service Provider (ISP). The dataset provided contains information about emails classified as either spam or not spam. My task was to develop and evaluate two supervised machine learning (ML) models to accurately detect spam emails, which will help filter them out of customers' inboxes.
 
-The models you will develop are:
+The models developed were:
 1. **Logistic Regression Model**
 2. **Random Forest Model**
 
-You will compare the performance of these models to determine which is more effective at spam detection.
+I compared the performance of these models to determine which is more effective at spam detection.
 
 
 ## Instructions
@@ -30,7 +30,7 @@ This challenge is divided into several key subsections:
    **Note:** In the "spam" column, a value of 0 indicates a legitimate message, and a value of 1 indicates spam.
 
 4. **Check Data Balance:**
-   - Use the `value_counts` function to check the balance of the labels variable (y).
+   - Used the `value_counts` function to check the balance of the labels variable (y).
 
 5. **Split the Data:**
    - Use `train_test_split` to divide the data into training and testing sets.
@@ -71,7 +71,7 @@ This challenge is divided into several key subsections:
 1. **Compare Performance:**
    - In a markdown cell, answer the following questions:
      - Which model performed better?
-     - How does that compare to your initial prediction?
+     - How does that compare to my initial prediction?
 
 ## Author
 
